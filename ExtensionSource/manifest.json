@@ -1,0 +1,10 @@
+{
+  "name": "Right click to search selected text on cppreference.com",
+  "version": "1.0",
+  "description": "Search on cppreference.com",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["rightclickSearch.js"]
+  },
+  "manifest_version": 2
+}
