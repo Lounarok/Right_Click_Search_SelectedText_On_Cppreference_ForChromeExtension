@@ -1,0 +1,2 @@
+# Right_Click_Search_SelectedText_On_Cppreference_ForChromeExtension
+ RightClick to show context menu 
